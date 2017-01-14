@@ -1,1 +1,1 @@
-echo hellooooo
+echo 1;
